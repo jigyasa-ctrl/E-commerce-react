@@ -18,7 +18,7 @@ function Navigation() {
           <img src="https://img.icons8.com/android/24/000000/like.png" />
           wishlist: 2
           <img src="https://img.icons8.com/fluent-systems-regular/24/000000/favorite-cart.png" />
-          cart: 3<strong> Items-$123</strong>
+          cart: 3
         </span>
       </div>
       <div class="navigation_container">
