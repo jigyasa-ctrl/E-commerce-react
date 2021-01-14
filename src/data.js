@@ -21,8 +21,8 @@ const data = {
         {
           product: {
             image: pant,
-            brand: "Calvin Klien",
-            name: "Skirt slim fit",
+            brand: "Roadster",
+            name: "Pant",
             price: "200",
           },
         },
@@ -146,7 +146,7 @@ const data = {
           product: {
             image: "http://pngimg.com/uploads/sweater/sweater_PNG39.png",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
+            name: "Sweater",
             price: "200",
           },
         },
@@ -154,7 +154,7 @@ const data = {
           product: {
             image: "http://pngimg.com/uploads/sweater/sweater_PNG21.png",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
+            name: "Sweater",
             price: "200",
           },
         },
@@ -162,7 +162,7 @@ const data = {
           product: {
             image: "http://pngimg.com/uploads/sweater/sweater_PNG23.png",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
+            name: "Sweater",
             price: "200",
           },
         },
@@ -170,15 +170,15 @@ const data = {
           product: {
             image: "http://pngimg.com/uploads/sweater/sweater_PNG23.png",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
-            price: "200",
+            name: "Sweater",
+            price: "60",
           },
         },
         {
           product: {
             image: "http://pngimg.com/uploads/sweater/sweater_PNG26.png",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
+            name: "Sweater",
             price: "200",
           },
         },
@@ -187,8 +187,8 @@ const data = {
             image:
               "https://vignette4.wikia.nocookie.net/warehouse-13-artifact-database/images/7/73/Sweater.png/revision/latest?cb=20141107001507",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
-            price: "200",
+            name: "Sweater",
+            price: "500",
           },
         },
         {
@@ -196,8 +196,8 @@ const data = {
             image:
               "https://cdn.shopify.com/s/files/1/0979/3228/products/UKF_clothing_-_webstore_photography_20_1024x1024.png?v=1511366458",
             brand: "Calvin Klien",
-            name: "Skirt slim fit",
-            price: "200",
+            name: "Sweater",
+            price: "20",
           },
         },
         {

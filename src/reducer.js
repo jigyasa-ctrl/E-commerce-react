@@ -23,32 +23,32 @@ const initialState = {
             {
               product: {
                 image: pant,
-                brand: "Calvin Klien",
-                name: "Skirt slim fit",
-                price: "200",
+                brand: "Roadster",
+                name: "Pant",
+                price: "45",
               },
             },
             {
               product: {
                 image: jogger,
-                brand: "Calvin Klien",
-                name: "Skirt slim fit",
-                price: "200",
+                brand: "roadster",
+                name: "jeans",
+                price: "56",
               },
             },
             {
               product: {
                 image: jeans,
                 brand: "Calvin Klien",
-                name: "Skirt slim fit",
-                price: "200",
+                name: "pant slim fit",
+                price: "20",
               },
             },
             {
               product: {
                 image: suit,
                 brand: "Calvin Klien",
-                name: "Skirt slim fit",
+                name: "Suit",
                 price: "200",
               },
             },
@@ -56,8 +56,8 @@ const initialState = {
               product: {
                 image: tshirt,
                 brand: "Calvin Klien",
-                name: "Skirt slim fit",
-                price: "200",
+                name: "Shirt fit",
+                price: "20",
               },
             },
             {
